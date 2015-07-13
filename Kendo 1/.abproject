@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Kendo 1",
+  "ProjectGuid": "4a27206c-5db9-4429-b537-d44c35c80e87",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Kendo1",
+  "DisplayName": "Kendo 1",
+  "Author": "",
+  "Description": "Kendo 1",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{ca9548fd-01c0-4ef7-b5ae-15d6cfd638d9}",
+  "WP8ProductID": "{42d3eac5-93b4-4fc2-bef6-fdf33ddf6cfe}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Kendo1",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
